@@ -1,9 +1,0 @@
-can you see this
- Yes, I can see rthis!
-
-some another line
-<<<<<<< HEAD
- a line for master
-=======
- for J branch
->>>>>>> J
